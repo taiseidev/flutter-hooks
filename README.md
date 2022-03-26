@@ -1,1 +1,2 @@
-# flutter_hooksのテストレポジトリ
+# flutter_hooks
+1秒間に一回watchTime()を実行
